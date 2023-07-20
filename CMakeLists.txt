@@ -1,3 +1,4 @@
+CMAKE_MINIMUM_REQUIRED(VERSION 3.19)
 # ################################################################
 # Copyright (c) 2015-present, Yann Collet, Facebook, Inc.
 # All rights reserved.
